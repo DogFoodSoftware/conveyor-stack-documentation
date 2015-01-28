@@ -1,32 +1,102 @@
-<nav>
-  <ol class="breadcrumb">
-    <li class="active">Stack Reference</li>
-  </ol>
-</nav>
-<div class="page-header">Stack Reference</div>
+<!-- breadcrumb: Stack Reference -->
 <section id="Overview">
   <div class="p">
-    These are the topics which comprise the standard Conveyor runtime
-    stack.
+    This is our supported software stack, soup to nuts. If you imagine
+    the layers of software, we start with the top
+    '<a href="#Application-Tier">Application Tier</a>', which deals
+    with implementation languages, libraries, frameworks,
+    etc. '<a href="#Middle-Tier">Middle Tier</a>' deals with "server"
+    applications like HTTP servers, database servers,
+    etc. '<a href="#Host-and-Hardware">Host and Hardware</a>' deals
+    with OS, distributions, and virtual providers.
   </div>
-</section>
-<section id="Topics">
-  <h1>Topics</h1>
   <div class="p">
-    <ul>
-      <li>
-	<em><a href="/documentation/nix-primer/Nix-in-Context">Nix</a></em>:
-	Package management and provisioning support.
-	<ul>
-	  <li><a href="/documentation/Nix-Primer">Nix Primer</a></li>
-	  <li><a href="/documentaiton/Nix-Cookbook">Nix Cookbook</a></li>
-	</ul>
-      </li>
-    </ul>
+    The final '<a href="#Misc">Misc</a>' deals with components we deal
+    or have dealt with which are not quite significant enough to merit
+    a section of their own. These are mostly but not exclusively
+    application tier components.
   </div>
 </section>
-<nav>
-  <ol class="breadcrumb">
-    <li class="active">Stack Reference</li>
-  </ol>
-</nav>
+<section id="Application-Tier">
+  <h1>Application Tier</h1>
+  <ul class="p">
+    <li>
+      <strong>Bash</strong>
+    </li>
+    <li>
+      <strong>GWT</strong>
+    </li>
+    <li>
+      <strong>Java</strong>
+    </li>
+    <li>
+      <strong>JavaScript</strong>
+    </li>
+    <li>
+      <strong>JQuery</strong>
+    </li>
+    <li>
+      <strong>PHP</strong>
+    </li>
+    <li>
+      <strong>Ruby</strong>
+    </li>
+    <li>
+      <strong>Twitter Bootstrap</strong>
+    </li>
+  </ul>
+</section>
+<section id="Middle-Tier">
+  <h1>Middle Tier</h1>
+  <ul class="p">
+    <li>
+      <strong>Apache</strong>
+    </li>
+    <li>
+      <strong>MySQL</strong>
+    </li>
+    <li>
+      <strong>OrientDB</strong>
+    </li>
+    <li>
+      <strong>Postgres</strong>
+    </li>
+    <li>
+      <strong>Solr</strong>
+    </li>
+  </ul>
+</section>
+<section id="Host-and-Hardware">
+  <h1>Host and Hardware</h1>
+  <ul class="p">
+    <li>
+      <strong>Nix</strong>: Package management and provisioning support.
+      <ul>
+	<li><a href="/documentation/Nix-Primer">Nix Primer</a></li>
+	<li><a href="/documentation/Nix-Language-Primer">Nix Language Primer</a></li>
+	<li><a href="/documentation/Nix-Cookbook">Nix Cookbook</a></li>
+      </ul>
+    </li>
+    <li>
+      <strong>OpenSUSE Linux</strong>
+    </li>
+  </ul>
+</section>
+<section id="Misc">
+  <h1>Misc</h1>
+  <ul class="p">
+    <li><a href="/documentatation/Stack-Misc#Ant">Ant</a></li>
+    <li><a href="/documentatation/Stack-Misc#AWS-EC2">AWS - EC2</a></li>
+    <li><a href="/documentatation/Stack-Misc#AWS-ElasticBeanstalck">AWS - ElasticBeanstalk</a></li>
+    <li><a href="/documentatation/Stack-Misc#AWS-S2">AWS - S3</a></li>
+    <li><a href="/documentatation/Stack-Misc#Gin">Gin</a></li>
+    <li><a href="/documentatation/Stack-Misc#Guice">Guice</a></li>
+    <li><a href="/documentatation/Stack-Misc#Inkscape">Inkscape</a></li>
+    <li><a href="/documentatation/Stack-Misc#make">make</a></li>
+    <li><a href="/documentatation/Stack-Misc#Perl">Perl</a></li>
+    <li><a href="/documentatation/Stack-Misc#Photoshop">Photoshop</a></li>
+    <li><a href="/documentatation/Stack-Misc#Photoshop-Scripting-and-Plugins">Photoshop Scripting and Plugins</a></li>
+    <li><a href="/documentatation/Stack-Misc#Python">Python</a></li>
+    <li><a href="/documentatation/Stack-Misc#WordPress">WordPress</a></li>
+  </ul>
+</section>
