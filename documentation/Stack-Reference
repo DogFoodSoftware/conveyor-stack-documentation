@@ -53,6 +53,9 @@
       <strong>Apache</strong>
     </li>
     <li>
+      <strong>Minify</strong>
+    </li>
+    <li>
       <strong>MySQL</strong>
     </li>
     <li>
@@ -89,9 +92,11 @@
     <li><a href="/documentatation/Stack-Misc#AWS-EC2">AWS - EC2</a></li>
     <li><a href="/documentatation/Stack-Misc#AWS-ElasticBeanstalck">AWS - ElasticBeanstalk</a></li>
     <li><a href="/documentatation/Stack-Misc#AWS-S2">AWS - S3</a></li>
+    <li><a href="/documentatation/Stack-Misc#Composer">Composer</a></li>
     <li><a href="/documentatation/Stack-Misc#Gin">Gin</a></li>
     <li><a href="/documentatation/Stack-Misc#Guice">Guice</a></li>
     <li><a href="/documentatation/Stack-Misc#Inkscape">Inkscape</a></li>
+    <li><a href="/documentatation/Stack-Misc#less">less</a></li>
     <li><a href="/documentatation/Stack-Misc#make">make</a></li>
     <li><a href="/documentatation/Stack-Misc#Perl">Perl</a></li>
     <li><a href="/documentatation/Stack-Misc#Photoshop">Photoshop</a></li>
